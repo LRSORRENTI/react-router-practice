@@ -27,3 +27,31 @@ h1 {
   text-decoration: none;
   margin-top: 10px;
 }
+
+.profiles-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.profiles {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.prof-link {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #fff;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.outlet-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
